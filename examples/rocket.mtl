@@ -1,0 +1,8 @@
+newmtl Hull
+Kd 0.92 0.92 0.95
+newmtl Red
+Kd 1 0.25 0.2
+newmtl Engine
+Kd 0.45 0.45 0.5
+newmtl Glass
+Kd 0.3 0.7 1
